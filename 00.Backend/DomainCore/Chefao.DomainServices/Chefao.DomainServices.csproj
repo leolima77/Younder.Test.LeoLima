@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Chefao.Core\Chefao.Core.csproj" />
+    <ProjectReference Include="..\Chefao.DataServices.Interfaces\Chefao.DataServices.Interfaces.csproj" />
+    <ProjectReference Include="..\Chefao.Domains\Chefao.Domains.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\bin\Release\netcoreapp2.0\Chefao.DomainServices.deps.json
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\bin\Release\netcoreapp2.0\Chefao.DomainServices.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\bin\Release\netcoreapp2.0\Chefao.DomainServices.pdb
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\bin\Release\netcoreapp2.0\Chefao.Core.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\bin\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\bin\Release\netcoreapp2.0\Chefao.Domains.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\bin\Release\netcoreapp2.0\Chefao.Core.pdb
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\bin\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.pdb
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\bin\Release\netcoreapp2.0\Chefao.Domains.pdb
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\obj\Release\netcoreapp2.0\Chefao.DomainServices.csproj.CoreCompileInputs.cache
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\obj\Release\netcoreapp2.0\Chefao.DomainServices.AssemblyInfoInputs.cache
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\obj\Release\netcoreapp2.0\Chefao.DomainServices.AssemblyInfo.cs
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\obj\Release\netcoreapp2.0\Chefao.DomainServices.csproj.CopyComplete
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\obj\Release\netcoreapp2.0\Chefao.DomainServices.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DomainServices\obj\Release\netcoreapp2.0\Chefao.DomainServices.pdb

@@ -1,0 +1,9 @@
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.Domains\bin\Debug\netcoreapp2.0\Chefao.Domains.deps.json
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.Domains\bin\Debug\netcoreapp2.0\Chefao.Domains.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.Domains\bin\Debug\netcoreapp2.0\Chefao.Domains.pdb
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.Domains\obj\Debug\netcoreapp2.0\Chefao.Domains.AssemblyInfoInputs.cache
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.Domains\obj\Debug\netcoreapp2.0\Chefao.Domains.AssemblyInfo.cs
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.Domains\obj\Debug\netcoreapp2.0\Chefao.Domains.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.Domains\obj\Debug\netcoreapp2.0\Chefao.Domains.pdb
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.Domains\obj\Debug\netcoreapp2.0\Chefao.Domains.csprojAssemblyReference.cache
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.Domains\obj\Debug\netcoreapp2.0\Chefao.Domains.csproj.CoreCompileInputs.cache
