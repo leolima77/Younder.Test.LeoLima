@@ -1,0 +1,14 @@
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\bin\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.deps.json
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\bin\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\bin\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.pdb
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\bin\Release\netcoreapp2.0\Chefao.Core.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\bin\Release\netcoreapp2.0\Chefao.Domains.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\bin\Release\netcoreapp2.0\Chefao.Core.pdb
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\bin\Release\netcoreapp2.0\Chefao.Domains.pdb
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\obj\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.csprojAssemblyReference.cache
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\obj\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\obj\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\obj\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.AssemblyInfo.cs
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\obj\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.csproj.CopyComplete
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\obj\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.dll
+C:\Users\Leo Lima\Source\Repos\Younder.Test.LeoLima\00.Backend\DomainCore\Chefao.DataServices.Interfaces\obj\Release\netcoreapp2.0\Chefao.DataServices.Interfaces.pdb

@@ -1,0 +1,55 @@
+<div class="container">
+  <div class="row">
+<div class="col-sm-offset-2 col-sm-8 loja-container">
+    <h3 class="text-center">Editar Loja</h3>
+    <form [formGroup]="editForm" (ngSubmit)="onSubmit()">
+      <input type="hidden" formControlName="idLoja"
+            name="idLoja" class="form-control" id="idLoja" />
+
+      <div class="form-group">
+        <label for="nomeFantasia">Nome Fantasia:</label>
+
+        <input type="text" formControlName="nomeFantasia" placeholder="Nome Fantasia" 
+            name="nomeFantasia" class="form-control" id="nomeFantasia" />
+      </div>
+  
+      <div class="form-group">
+        <label for="descricao">Descrição:</label>
+        <textarea formControlName="descricao" placeholder="Descrição" 
+            name="descrição" class="form-control" id="descrição"></textarea>
+      </div>
+  
+      <div class="form-group">
+        <label for="tags">Tags:</label>
+        <input formControlName="tags" placeholder="Tags" 
+            name="tags" class="form-control" id="tags" />
+      </div>
+  
+      <div class="form-group">
+        <label for="email">E-mail:</label>
+        <input formControlName="email" placeholder="Digite seu e-mail" 
+            name="email" class="form-control" id="email" />
+      </div>
+  
+      <div class="form-group">
+        <label for="telefone">Telefone:</label>
+        <input type="tet" formControlName="telefone" placeholder="Digite seu telefone" 
+            name="telefone" class="form-control" id="telefone" />
+      </div>
+  
+      <div class="form-group">
+        <label for="dominio">Domínio:</label>
+        <input type="text" formControlName="dominio" placeholder="Digite o domínio" 
+            name="dominio" class="form-control" id="dominio" />
+      </div>
+
+      <div class="form-group">
+        <label for="ativa">Ativa:</label>
+        <input type="checkbox" formControlName="ativa" id="ativa" name="ativa" />
+      </div>
+  
+      <button class="btn btn-success">Alterar</button>
+    </form>
+</div>
+</div>
+</div>
