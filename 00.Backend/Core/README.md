@@ -1,1 +1,0 @@
-[![Build status](https://dev.azure.com/Clickbus.PlacesOps/Clickbus.Places/_apis/build/status/Clickbus.Places-Core-CI)](https://dev.azure.com/Clickbus.PlacesOps/Clickbus.Places/_build/latest?definitionId=4)
